@@ -12,7 +12,7 @@ In my first C programming class ever, we were only taught how to write code to m
 
 ## Coding Standards 
 
-<img class="ui medium right spaced image" src="../images/twotypes.jpg">
+<img class="ui medium right floated image" src="../images/twotypes.jpg">
 
 Later in my future ICS programming classes, coding standards were enforced. At first the idea seemed like it was forced upon us, but after getting accustomed to it for a while it made understanding code much easier. Everyone has a different style or syntax when writing code. 
 
