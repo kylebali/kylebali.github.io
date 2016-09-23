@@ -12,9 +12,9 @@ In my first C programming class ever, we were only taught how to write code to m
 
 ## Coding Standards 
 
-<img class="ui medium right floated image" src="../images/twotypes.jpg">
-
 Later in my future ICS programming classes, coding standards were enforced. At first the idea seemed like it was forced upon us, but after getting accustomed to it for a while it made understanding code much easier. Everyone has a different style or syntax when writing code. 
+
+<img class="ui medium right floated image" src="../images/twotypes.jpg">
 
 But in the end the goal in writing code is to write it so our classmates and colleagues can understand it practically on the fly. This is easily accomplished when everyone is using similar code standards. This is especially important in collaboration projects. Eliminating all format inconsisties allows each group member to understand code much easier. 
 
