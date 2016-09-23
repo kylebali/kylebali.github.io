@@ -16,6 +16,6 @@ Later in my future ICS programming classes, coding standards were enforced. At f
 
 <img class="ui medium right floated image" src="../images/twotypes.jpg">
 
-Everyone has a different style or syntax when writing code. The end goal in writing code is to write it so our classmates and colleagues can understand it practically on the fly. This is easily accomplished when everyone is using similar code standards. This is especially important in collaboration projects. Eliminating all format inconsisties allows each group member to understand code much easier. 
+Everyone has a different style or syntax when writing code. The end goal in writing code is to make it readable so our classmates and colleagues can understand it practically on the fly. This is easily accomplished when everyone is using similar code standards. This is especially important in collaboration projects. Eliminating all format inconsisties allows each group member to understand code much easier. 
 
 After experiencing ESlint and Intellij, I don't have much problems working with it. Implementing this coding standard doesn't seem like a hassle after learning other coding standards before it. Initally I did have some problems with the style as I would still be used to other standards from previous classes. However, I though repeated use of ESLint and Intellij the style will just grow on me, and fewer errors will happen. 
