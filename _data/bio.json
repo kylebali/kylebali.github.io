@@ -93,24 +93,13 @@
       "company": "Kaua'i Police Department",
       "position": "Summer Intern",
       "website": "",
-      "startDate": "2015-06-15",
-      "endDate": "2015-07-31",
+      "startDate": "2016-06-13",
+      "endDate": "2016-07-29",
       "summary": "Intern at the Kaua'i Police Department",
       "highlights": [
         "Managed online databases using Excel and other DBMS Software",
-        "Digitalized important records into new online databases"
-      ]
-    },
-    {
-      "company": "Department of Information and Computer Sciences at University of Hawaii at Mānoa",
-      "position": "Online Learning Assistant",
-      "website": "",
-      "startDate": "2015-08-25",
-      "endDate": "2015-12-15",
-      "summary": "Undergraduate Online Learning Assistant for ICS 101",
-      "highlights": [
-        "Assisted lab teaching assistants during 75-minute lab sessions twice a week",
-        "Handled teaching material to students and graded work for one week"
+        "Digitalized new records into online databases",
+        "Assisted with Police Recruit Training"
       ]
     },
     {
@@ -126,16 +115,27 @@
       ]
     },
     {
+      "company": "Department of Information and Computer Sciences at University of Hawaii at Mānoa",
+      "position": "Online Learning Assistant",
+      "website": "",
+      "startDate": "2015-08-25",
+      "endDate": "2015-12-15",
+      "summary": "Undergraduate Online Learning Assistant for ICS 101",
+      "highlights": [
+        "Assisted lab teaching assistants during 75-minute lab sessions twice a week",
+        "Handled teaching material to students and graded work for one week"
+      ]
+    },
+    {
       "company": "Kaua'i Police Department",
       "position": "Summer Intern",
       "website": "",
-      "startDate": "2016-06-13",
-      "endDate": "2016-07-29",
+      "startDate": "2015-06-15",
+      "endDate": "2015-07-31",
       "summary": "Intern at the Kaua'i Police Department",
       "highlights": [
         "Managed online databases using Excel and other DBMS Software",
-        "Digitalized new records into online databases",
-        "Assisted with Police Recruit Training"
+        "Digitalized important records into new online databases"
       ]
     }
   ],
