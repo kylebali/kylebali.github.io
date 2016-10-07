@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Semantic Language
-date: 2016-10-6
+date: 2016-10-06
 labels:
   - Web Development
   - Semantic UI
