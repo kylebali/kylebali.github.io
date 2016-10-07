@@ -1,7 +1,7 @@
 ---
 layout: essay
-type: essay
 published: false
+type: essay
 title: The Semantic Language
 date: 2016-10-6
 labels:
