@@ -25,7 +25,7 @@ I got burned ... out. There is definitely a learning curve when initally startin
 
 ## Calm In The Storm
 
-<img class="ui floated image" src="../images/meteorisgood.png">
+<img class="ui rounded image" src="../images/meteorisgood.png">
 
 About two weeks into Meteor, and many assignments later, I finally have a grasp of what is going on. Then the pros of the software finally come back to mind. Development in real-time, smart packages, and tons of integration, support, and features right out of the box. You realize just the amount of work that Meteor does for you. I'm not completely sure of how to implement everything right on the spot, but I'm becoming comfortable using the framework. Although I'm positive my knowledge of Meteor will increase with more experience and time working in the framework.
 
