@@ -22,6 +22,10 @@ Meteor showers are a spectacle to see. Streak of lights brightening the night sk
 
 <img class="ui medium right floated image" src="../images/meteorfire.jpg">
 
-I got burned ... out. There is definitely a learning curve when initally starting meteor, and boy that steep learning curve was real. It wasn't gonna be easy. I honestly hated it. But then, what is easy about learning something new anyway? When first learning Meteor, we were given simple assignments to do. Also screencasts and tutorials of how to do things were given as supplemental information. All the information however just seemed to not stick with me. I just found myself not being able to understand why certain steps were done to do a certain task. The end product was cool though. A fully functional website that was created in real-time.
+I got burned ... out. There is definitely a learning curve when initally starting meteor, and boy that steep learning curve was real. It wasn't gonna be easy. I honestly hated it. But then, what is easy about learning something new anyway? When first learning Meteor, we were given simple assignments to do. Also screencasts and tutorials of how to do things were given as supplemental information. All the information however just seemed to not stick with me. I just found myself not being able to understand why certain steps were done to do a certain task. Adding to that, I'd often get lost while doing the assignments since there are so many files having the same filenames. Sometimes I'd accidentally edit the wrong file, causing a huge mess in the application, and adding more stress to solving unending errors that I'd have to debug through. The end product was cool though. A fully functional website that was created in real-time.
 
-## 
+## Calm In The Storm
+
+About two weeks into Meteor and many assignments later, I finally have a grasp of what is going on. I'm becoming comfortable using the framework.
+
+<img class="ui medium floated image" src="../images/meteorisgood.png">
