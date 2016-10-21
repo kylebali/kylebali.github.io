@@ -15,7 +15,7 @@ labels:
 
 <img class="ui medium right floated image" src="../images/meteorshower.jpg">
 
-Meteor showers are a spectacle to see. Streak of lights brightening the night sky. A very enthusiastic celestial event for everyone to enjoy, from a distance that is. However if magically you were to fly into the path of the shooting star, getting closer and closer; well you could get burned. Similarly, when initally hearing about the <a href="https://www.meteor.com/">Meteor Framework</a> I was impressed about its features. Development in real-time, smart packages, and tons of integration, support, and features right out of the box. And then the Meteor started getting closer, or rather, I decided to take flight into its path. 
+Meteor showers are a spectacle to see. Streak of lights brightening the night sky. A very enthusiastic celestial event for everyone to enjoy, from a distance that is. However if magically you were to fly into the path of the shooting star, getting closer and closer; well you could get burned. Similarly, when initally hearing about the <a href="https://www.meteor.com/">Meteor Framework</a> I was impressed about its features. And then the Meteor started getting closer, or rather I decided to take flight into its path. 
 
 ## And Then It Hit Me
 
@@ -25,6 +25,6 @@ I got burned ... out. There is definitely a learning curve when initally startin
 
 ## Calm In The Storm
 
-About two weeks into Meteor and many assignments later, I finally have a grasp of what is going on. I'm becoming comfortable using the framework.
+About two weeks into Meteor and many assignments later, I finally have a grasp of what is going on. Then the pros of the software finally come back to mind. Development in real-time, smart packages, and tons of integration, support, and features right out of the box. You realize just the amount of work that Meteor does for you. I'm not 100% sure of how to implement things right on the spot, but I'm becoming comfortable using the framework. Although I'm posiive my knowledge of Meteor will increase with more experience working in the framework.
 
 <img class="ui floated image" src="../images/meteorisgood.png">
