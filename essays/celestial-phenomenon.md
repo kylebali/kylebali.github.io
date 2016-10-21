@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: false
 title: Celestial Phenomenon
 date: 2016-10-20
 labels:
