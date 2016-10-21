@@ -28,4 +28,4 @@ I got burned ... out. There is definitely a learning curve when initally startin
 
 About two weeks into Meteor and many assignments later, I finally have a grasp of what is going on. I'm becoming comfortable using the framework.
 
-<img class="ui medium floated image" src="../images/meteorisgood.png">
+<img class="ui floated image" src="../images/meteorisgood.png">
