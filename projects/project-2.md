@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/website.png
-title: All About Me
+title: 101 Website
 permalink: projects/website
 date: 2014
 labels:
