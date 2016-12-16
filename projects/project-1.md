@@ -10,7 +10,7 @@ labels:
   - EZ Graphics
 summary: A playable piano developed for ICS 111.  
 ---
-<div class="ui centered container">
+<div class="ui two column centered grid">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fChNjBPrxiw" frameborder="0" allowfullscreen></iframe>
 </div>
 
