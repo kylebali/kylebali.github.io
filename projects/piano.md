@@ -20,6 +20,6 @@ I throughly enjoyed this first project since I am musically inclined, and I like
 
 The project is written in Java with much help from the EZ graphics library created by Dylan Kobayashi.  
 
-If the embedded video does not work click [here](https://www.youtube.com/watch?v=fChNjBPrxiw)
+If the embedded video does not work click <a href="https://www.youtube.com/watch?v=fChNjBPrxiw" target="_blank">here</a>.
 <p></p>
 <p></p>
