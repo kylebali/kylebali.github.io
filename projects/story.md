@@ -20,6 +20,6 @@ The basis of this project was to create a program that reads a script from a tex
 
 For the creation of this project my group members and I first created the plot of how we wanted the story to go.  Once we figured out what we were doing the project on, we then had weekly meetings to create the code necessary to run the project.  I then found the necessary pictures and sounds for each part of the story, and we then compiled everything together.  After the hard work of debugging and the last minute addition of the boar game, we received an "A" for the project.
 
-If the embedded video doesn't work you may click [here](https://www.youtube.com/watch?v=Med5GKesR0o)
+If the embedded video doesn't work you may click <a href="https://www.youtube.com/watch?v=Med5GKesR0o" target="_blank">here</a>.
 <p></p>
 <p></p>
