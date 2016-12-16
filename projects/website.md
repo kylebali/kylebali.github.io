@@ -17,6 +17,6 @@ This site was the final assignment for ICS 101 (Tools for the Info World) class.
 
 This assignment was to ensure we understood basic concepts of how HTML and CSS works, and that we could create a website to be view online.  I created an "About Me" that has pages including my hobbies, travels, and a small bio of who I am.  The site is created with the help of Dreamweaver, a development tool for creating, publishing and managing websites.
 
-To view the site, click [here](http://www2.hawaii.edu/~kylebali/me/)
+To view the site, click <a href="http://www2.hawaii.edu/~kylebali/me/" target="_blank">here</a>.
 <p></p>
 <p></p>
