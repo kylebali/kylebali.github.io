@@ -14,3 +14,5 @@ labels:
 summary: A web application developed for ICS 314 that allow users to buy/sell concert tickets easily.   
 ---
 
+
+<img class="ui floated rounded image" src="../images/landing-page.png">
