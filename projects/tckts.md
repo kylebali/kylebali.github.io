@@ -21,3 +21,16 @@ This is was a group project that I collaborated with a three others to complete.
 <a href="https://manoa-tckts.github.io/" target="_blank"><i class="large github icon"></i>Manoa TCKTS</a>
 
 <img class="ui floated rounded image" style="margin-bottom: 20px" src="../images/landingpage.png">
+
+The Development Team
+
+* <a href="https://dumlaoj.github.io/" target="_blank"> Jordan Dumlao</a>
+<br>
+* <a href="https://kylebali.github.io/" target="_blank"> Kyle Balisacan</a>
+<br>
+* <a href="https://brandon-chun.github.io/" target="_blank"> Brandon Chun</a>
+<br>
+* <a href="https://brentnunogawa.github.io/" target="_blank"> Brent Nunogawa</a>
+<br>
+<p></p>
+<p></p>
