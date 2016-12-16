@@ -12,7 +12,7 @@ labels:
 
 ## Thoughts on Javascript
 
-<img class="ui medium right floated rounded image" src="../images/js.png">
+<img class="ui medium right floated rounded image" src="../images/jsnew.png">
 
 With Javascript sharing similar syntax as other programming languages, such as C and Java, I've come to have a basic understanding of how to make it work. One thing I like about the language is its simplicity making it fairly easy to learn and use. Another feature I think is interesting is that Javascript flushes the extra time needing to specify data types down the drain. It's pretty neat that Javascript is "smart" enough to distinguish between data types on its own without having someone to tell it.  
 
