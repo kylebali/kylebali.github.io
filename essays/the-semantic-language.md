@@ -11,7 +11,7 @@ labels:
 
 ## Semantic UI
 
-Enter <a href="http://semantic-ui.com/">Semantic UI</a>, making the HTML/CSS world a better place. Ever tried to make a website with raw HTML/CSS? Thought it was impossible? Well not to worry, with Semantic UI's many and easy to implement features, web designing becomes an absolute breeze. Check this out! You can turn your website from this
+Enter <a href="http://semantic-ui.com/" target="_blank">Semantic UI</a>, making the HTML/CSS world a better place. Ever tried to make a website with raw HTML/CSS? Thought it was impossible? Well not to worry, with Semantic UI's many and easy to implement features, web designing becomes an absolute breeze. Check this out! You can turn your website from this
 
 <img class="ui floated rounded image" src="../images/browsinghistory-before.png">
 
