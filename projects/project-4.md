@@ -20,4 +20,4 @@ This is was a group project that I collaborated with a three others to complete.
 
 <a href="https://manoa-tckts.github.io/"><i class="large github icon"></i>Manoa TCKTS</a>
 
-<img class="ui floated rounded image" style="margin-bottom: 10px" src="../images/landingpage.png">
+<img class="ui floated rounded image" style="margin-bottom: 20px" src="../images/landingpage.png">
