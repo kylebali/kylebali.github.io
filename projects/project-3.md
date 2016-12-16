@@ -12,7 +12,7 @@ labels:
 summary: An Interactive Story group project created for ICS 111.
 ---
 
-<div class="ui centered container" style="margin-bottom: 20px">
+<div class="ui two column centered grid" style="margin-bottom: 20px">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Med5GKesR0o" frameborder="0" allowfullscreen></iframe>
 </div>
 
