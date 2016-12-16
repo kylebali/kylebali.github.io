@@ -1,5 +1,6 @@
 ---
 layout: essay
+published: false
 type: essay
 title: Git Better At Management
 date: 2016-09-15
