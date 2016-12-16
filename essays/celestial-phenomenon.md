@@ -15,7 +15,7 @@ labels:
 
 <img class="ui medium left floated rounded image" src="../images/meteorshower.jpg">
 
-Meteor showers are a spectacle to see. Streak of lights illuminating the night sky. A very enthusiastic celestial event for everyone to enjoy, from a distance that is. If magically you were to fly into the path of the shooting star, getting closer and closer; well you could get burned. Similarly, when initally hearing about the <a href="https://www.meteor.com/">Meteor Framework</a> I was essentially admiring it from afar, being impressed about its features. And then the Meteor started getting closer, or rather I decided to take flight into its path. 
+Meteor showers are a spectacle to see. Streak of lights illuminating the night sky. A very enthusiastic celestial event for everyone to enjoy, from a distance that is. If magically you were to fly into the path of the shooting star, getting closer and closer; well you could get burned. Similarly, when initally hearing about the <a href="https://www.meteor.com/" target="_blank">Meteor Framework</a> I was essentially admiring it from afar, being impressed about its features. And then the Meteor started getting closer, or rather I decided to take flight into its path. 
 
 ## And Then It Hit Me
 
